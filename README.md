@@ -8,7 +8,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=nitishsai9)
 
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="408" height="318" />
+<img align="right" alt="GIF" src="https://www.pngkey.com/png/full/221-2212352_niandoge-nyan-cat-png-gif.png" width="300" height="220" />
 
 - 💬 Ask me about 🌝 anything
 - ☁️ Cloud Support Associate [ Deployment ] AWS
