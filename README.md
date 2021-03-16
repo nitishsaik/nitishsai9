@@ -12,7 +12,7 @@
 - ⚡ Dark: 🌑 Sic Mundus Creatus Est
 
 <br>
-📈 **My GitHub Stats:**
+📈 My GitHub Stats:
 
 <br>
 <p>
