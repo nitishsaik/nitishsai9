@@ -4,7 +4,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/nitishsaik/)
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=nitishsai9)
-<img align="right" alt="GIF" src="https://www.pngkey.com/png/full/221-2212352_niandoge-nyan-cat-png-gif.png" width="308" height="218"  />
+<img align="right" alt="GIF" src="https://nitishsaikommaraju.ml/static/media/nitish.e1de6f3b.png" width="308" height="218"  />
 
 - 💬 Ask me about 🌝 anything
 - ☁️ Cloud Support Associate [ Deployment ] AWS
