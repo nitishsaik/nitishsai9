@@ -3,15 +3,20 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Nitishsaik)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/nitishsaik/)
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=nitishsai9)
-<img align="right" alt="GIF" src="https://nitishsaikommaraju.ml/static/media/nitish.e1de6f3b.png" width="208em"  />
 
+<img align="center" alt="GIF" src="https://nitishsaikommaraju.ml/static/media/nitish.e1de6f3b.png" width="208em"  />
+
+
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=nitishsai9)
 - 💬 Ask me about 🌝 anything
 - ☁️ Cloud Support Associate [ Deployment ] AWS
 - 📫 How to reach me: nitishsaikommaraju.ml
 - ⚡ Dark: 🌑 Sic Mundus Creatus Est
 
 <br>
+
+
+
 📈 My GitHub Stats:
 
 <br>
