@@ -8,7 +8,6 @@
 
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=nitishsai9)
-- ☁️ Cloud Support Associate [ Containers ] AWS
-- 📫 How to reach me: nitishsaikommaraju.ml
+
 
 
