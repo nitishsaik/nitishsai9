@@ -4,7 +4,6 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/nitishsaik/)
 
 
-<img align="center" alt="GIF" src="https://nitishsaikommaraju.ml/static/media/nitish.e1de6f3b.png" width="208em"  />
 
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=nitishsai9)
